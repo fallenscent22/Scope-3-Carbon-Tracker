@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/carbon-tracker/static/css/main.3235fed9.css",
+    "main.js": "/carbon-tracker/static/js/main.513162db.js",
+    "index.html": "/carbon-tracker/index.html",
+    "main.3235fed9.css.map": "/carbon-tracker/static/css/main.3235fed9.css.map",
+    "main.513162db.js.map": "/carbon-tracker/static/js/main.513162db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3235fed9.css",
+    "static/js/main.513162db.js"
+  ]
+}
