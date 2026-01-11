@@ -16,12 +16,12 @@ const Header = () => {
           <nav className="w-full md:w-auto">
             <ul className="flex flex-wrap justify-center md:justify-end space-x-2 md:space-x-6">
               <li>
-                <a
-                  href="/#pricing"
+                <Link
+                  to="/#pricing"
                   className="block px-3 py-2 text-gray-700 hover:text-primary-blue font-medium transition-colors"
                 >
                   Pricing
-                </a>
+                </Link>
               </li>
               <li>
                 <Link
@@ -48,7 +48,7 @@ const Header = () => {
                 </Link>
               </li>
               <li>
-                
+
                 <button onClick={() => alert('Login feature coming soon!')} className="ml-4 px-6 py-2 bg-primary-blue text-white rounded-full hover:bg-blue-700 transition-colors font-medium">
                   Login
                 </button>
