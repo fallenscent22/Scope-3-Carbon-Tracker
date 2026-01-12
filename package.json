@@ -2,7 +2,6 @@
   "name": "carbon-tracker",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://fallenscent22.github.io/Scope-3-Carbon-Tracker",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
